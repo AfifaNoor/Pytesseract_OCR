@@ -16,7 +16,7 @@ To set up the environment and install the necessary dependencies, follow these s
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/pytesseract-OCR.git
+    https://github.com/AfifaNoor/Pytesseract_OCR.git
     cd ocr-processing-project
     ```
 
